@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+    background-color: cadetblue;
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+    text-align: center;
+    padding: 0.5em
+  }
+  
+body p {
+  background-color: lightblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+nav {
+  background-color: cornsilk;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0.4em;
+}
+
+h1 { 
+  background-color: beige;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 100px;
+}
