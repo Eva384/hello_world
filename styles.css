@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+ul {
+  background-color: aqua;
+  list-style-type: none;
+  display: flex;
+  justify-content: end;
+  align-items: flex-start;
+}
+
+* {
+  background-color: #181818;
+  color: #CCC;
+}
+
+img {
+  width: 100px;
+}
+
+button {
+  border: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+li {
+  padding: 1em;
+}
